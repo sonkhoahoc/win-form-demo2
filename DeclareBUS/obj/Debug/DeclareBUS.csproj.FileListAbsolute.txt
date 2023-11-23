@@ -1,0 +1,14 @@
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\DeclareBUS.dll.config
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\DeclareBUS.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\DeclareBUS.pdb
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\DeclareDAO.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\EntityFramework.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\DeclareDAO.pdb
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\DeclareDAO.dll.config
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\EntityFramework.xml
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\obj\Debug\DeclareBUS.csproj.AssemblyReference.cache
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\obj\Debug\DeclareBUS.csproj.CoreCompileInputs.cache
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\obj\Debug\DeclareBUS.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareBUS\obj\Debug\DeclareBUS.pdb

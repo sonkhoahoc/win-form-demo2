@@ -1,0 +1,11 @@
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\DeclareDAO.dll.config
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\DeclareDAO.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\DeclareDAO.pdb
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\EntityFramework.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\EntityFramework.xml
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\obj\Debug\DeclareDAO.csproj.AssemblyReference.cache
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\obj\Debug\DeclareDAO.csproj.CoreCompileInputs.cache
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\obj\Debug\DeclareDAO.dll
+D:\Bai_tap VS2019\Project2\Project2\DeclareDAO\obj\Debug\DeclareDAO.pdb
